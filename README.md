@@ -1,5 +1,6 @@
 # Statistical_Analysis_using_Python-Kiva-data
-1. Problem Statement:
+ Data Set: https://drive.google.com/drive/folders/163ytdp68FLZilYklFnjshsfla_sBYb8P?usp=sharing
+1.Problem Statement:
 This report presents an analysis of the data collected from Kiva, a global non-profit organization
 dedicated to providing financial services to underserved and marginalized communities. The
 analysis of the data focuses on understanding the characteristics of the borrowers, lenders and
